@@ -1,0 +1,11 @@
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.AssemblyReference.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.SuggestedBindingRedirects.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.CoreCompileInputs.cache
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb
+C:\Users\aa0073\OneDrive - CCSU\ClassApps\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Latin_Translator1.resources
